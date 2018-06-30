@@ -1,6 +1,6 @@
 package ControlFlowStatements;
 
-import Expressions_statements_and_more.Methods;
+import ExpressionsStatementsAndMore.Methods;
 
 public class NumberOfDaysInMonth {
     public static void main(String[] args) {

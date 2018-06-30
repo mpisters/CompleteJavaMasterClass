@@ -1,6 +1,6 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
-public class overloading {
+public class Overloading {
     public static void main(String[] args) {
         calculateScore("tim", 500);
         calculateScore(1000);

@@ -1,6 +1,6 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
-public class overloading_coding_exercises {
+public class OverloadingCodingExercises {
     public static double area(double radius){
         if (radius < 0){
             return -1.0;

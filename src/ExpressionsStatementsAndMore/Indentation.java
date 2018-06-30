@@ -1,6 +1,6 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
-public class indentation {
+public class Indentation {
     public static void main(String[] args) {
         int myVariable = 50;
         if(myVariable == 50){

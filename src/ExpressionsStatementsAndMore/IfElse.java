@@ -1,6 +1,6 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
-public class ifelse {
+public class IfElse {
     public static void main(String[] args) {
         boolean gameOver = true;
         int score = 2000;

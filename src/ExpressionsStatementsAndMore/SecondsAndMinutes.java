@@ -1,4 +1,4 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
 public class SecondsAndMinutes {
     private static final String INVALID_VALUE_MESSAGE = "Invalid value";

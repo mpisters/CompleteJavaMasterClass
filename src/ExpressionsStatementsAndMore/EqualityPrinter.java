@@ -1,4 +1,4 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
 public class EqualityPrinter {
     private static final String INVALID_VALUE_MESSAGE = "Invalid Value";

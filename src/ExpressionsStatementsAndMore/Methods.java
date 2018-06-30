@@ -1,4 +1,4 @@
-package Expressions_statements_and_more;
+package ExpressionsStatementsAndMore;
 
 public class Methods {
     public static void main(String[] args) {
