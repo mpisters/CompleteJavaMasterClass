@@ -6,12 +6,13 @@ public class IsPalindrome {
     }
     public static boolean isPalindrome(int number){
         int reverse = 0;
-        while (number != 0){
-            int lastDigit = number % 10;
+        int palindrome = number;
+        while (palindrome != 0){
+            int lastDigit = palindrome % 10;
             reverse = reverse * 10 + lastDigit;
-            number = number / 10;
+            palindrome = palindrome / 10;
         }
-
+        return number == reverse;
     }
 
 }
